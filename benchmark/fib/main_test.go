@@ -3,7 +3,7 @@ package main
 import "testing"
 
 func TestFib(t *testing.T) {
-	println(fib(30))
+	println(fib(10))
 }
 
 func TestFibMemo(t *testing.T) {
